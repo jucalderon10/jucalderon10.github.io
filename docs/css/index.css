@@ -1,0 +1,39 @@
+.general{
+    width: 700px;
+    height: 700px;
+    position: relative; left: 320px;
+
+}
+.contenido{
+    background-image: url(https://previews.123rf.com/images/lindrik/lindrik1503/lindrik150301378/38135784-vintage-retro-style-amsterdam-beautiful-places-in-europe.jpg);
+    background-repeat: no-repeat;
+    background-size: 880px;
+    padding: 1% 10%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.5cm;
+}
+
+label{display: inline-block; width: 100px;}
+
+.header{
+    background-image: url(https://previews.123rf.com/images/lindrik/lindrik1503/lindrik150301499/38146432-vintage-retro-style-amsterdam-beautiful-places-in-europe.jpg);
+    padding: 1% 10%;
+    
+}
+#contacto{  
+    background: -webkit-linear-gradient(#B7950B, #784212);
+    background: -moz-linear-gradient(#B7950B, #784212);
+    background: -o-linear-gradient(#B7950B, #784212);
+    color:#6E2C00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.5cm;
+    text-align: center;
+    padding: 1% 10%;
+}
+h1{
+    text-align: center;
+    font-family:fantasy;
+    padding:3% 10%;
+    color: black;
+    font-size: 1cm;
+}
